@@ -1,0 +1,6 @@
+data/*
+src/raw_data/*
+src/.idea
+.idea
+src/__pycache__
+src/*.csv
